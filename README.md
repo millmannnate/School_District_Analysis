@@ -9,13 +9,13 @@ Thomas High School's percentages went slightly down from where they were at befo
 * How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 The removal of the ninth graders' scores didn't affect where Thomas High School stood compared to other schools.
 * How does replacing the ninth-grade scores affect the following:
-  * Math and reading scores by grade
+  * Math and reading scores by grade:
   Math and reading scores appeared to be the same.
-  * Scores by school spending
+  * Scores by school spending:
   Schools with $630-$644 spent per student had reading scores go slightly up and math scores go slightly down.
-  * Scores by school size
+  * Scores by school size:
   Medium-sized schools had reading scores go slightly up and math scores go slightly down.
-  * Scores by school type
+  * Scores by school type:
   Charter schools had reading scores go slightly up and math scores go slightly down.
 ## Summary
 The changes that occured in the tables were consistent accross the board when the 9th grade data was changed to NaN. Scores by grade was formatted down to less decimal places and I was unable to see changes in that table. It would make logical sense for that to also change just slightly along with the other tables. Any of the groupings that Thomas High School was a part of showed an increase in reading scores and a decrease in math scores. The percentages for passing that involved Thomas all decreased slightly despite an increase in average reading scores. 
