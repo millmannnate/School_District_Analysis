@@ -9,7 +9,7 @@ Thomas High School's percentages went slightly down from where they were at befo
 * How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 The removal of the ninth graders' scores didn't affect where Thomas High School stood compared to other schools.
 * How does replacing the ninth-grade scores affect the following:
-  *Math and reading scores by grade
+  * Math and reading scores by grade
   Math and reading scores appeared to be the same.
   * Scores by school spending
   Schools with $630-$644 spent per student had reading scores go slightly up and math scores go slightly down.
